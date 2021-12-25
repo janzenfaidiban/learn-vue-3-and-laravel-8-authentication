@@ -1,0 +1,1 @@
+Click <a href="http://localhost:3000/reset/{{$token}}"> to reset your password!</a>
